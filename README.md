@@ -1,5 +1,8 @@
 # Diabetes-Prediction-ML
 
+## Disable Max Path Length
+    git config --system core.longpaths true
+
 ### Python
 
     Version:  Python 3.9
