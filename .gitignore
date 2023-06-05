@@ -1,5 +1,4 @@
 venv
-Data
 models/**
 tf_checkpoints/**
 Data/manifest-MjbMt99Q1553106146386120388/**
