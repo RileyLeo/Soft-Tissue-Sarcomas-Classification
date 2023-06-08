@@ -1,1 +1,4 @@
 venv
+Data_/**
+models_/**
+tf_checkpoints_/**
